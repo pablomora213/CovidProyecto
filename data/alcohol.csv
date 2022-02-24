@@ -1,0 +1,123 @@
+Country,Hemisphere,HDI,GDP_PerCapita,Beer_PerCapita,Spirit_PerCapita,Wine_PerCapita
+Denmark,north,928,53.579,224,81,278
+Switzerland,north,943,79.866,185,100,280
+Iceland,north,933,60.53,233,61,78
+Norway,north,951,70.89,169,71,129
+Finland,north,918,43.433,263,133,97
+Canada,north,922,42.349,240,122,100
+Netherlands,north,928,45.638,251,88,190
+New Zealand,south,915,40.332,203,79,175
+Australia,south,938,49.897,261,72,212
+Sweden,north,932,51.845,152,60,186
+Israel,north,902,37.181,63,69,9
+Austria,north,906,44.731,279,75,191
+United States,north,922,57.589,249,158,84
+Costa Rica,north,791,11.733,149,87,11
+Germany,north,934,42.233,346,117,175
+Brazil,both,758,8.639,245,145,16
+Belgium,north,915,41.261,295,84,212
+Ireland,north,934,64.1,313,118,165
+Luxembourg,north,904,100.739,236,133,271
+Mexico,north,772,8.444,238,68,5
+Singapore,north,930,55.243,60,12,11
+United Kingdom,north,920,40.412,219,126,195
+Chile,south,842,13.961,130,124,172
+Panama,north,785,14.333,285,104,18
+Argentina,south,822,12.654,193,25,221
+Czechoslovakia,north,885,18.484,361,170,134
+United Arab Emirates,north,862,38.518,16,135,5
+Uruguay,south,802,15.298,115,35,220
+Malta,north,875,24.771,149,100,120
+Colombia,both,747,5.757,159,76,3
+France,north,899,36.87,127,151,370
+Thailand,north,748,5.979,99,258,1
+Qatar,north,855,59.324,1,42,7
+Spain,north,889,26.617,284,157,112
+Guatemala,north,649,4.141,53,69,2
+Surinam,north,719,5.871,128,178,7
+Baréin,north,846,22.561,42,63,7
+Trinidad and Tobago,north,785,16.352,197,156,7
+Venezuela,north,766,15.692,333,100,3
+Slovakia,north,853,16.53,196,293,116
+El Salvador,north,679,3.769,52,69,2
+Nicaragua,north,657,2.144,78,118,1
+Uzbekistan,north,703,2.106,25,101,8
+Italy,north,878,30.669,85,42,237
+Ecuador,both,749,6.019,162,74,3
+Belize,north,709,4.96,263,114,8
+Japan,noth,907,38.972,77,202,16
+Kazakhstan,north,797,7.715,124,246,12
+Moldova,north,697,1.913,109,226,18
+Russia,north,815,8.748,247,326,73
+Poland,north,860,12.415,343,215,56
+South Korea,noth,900,27.105,140,16,9
+Bolivia,south,689,3.117,167,41,8
+Lithuania,north,855,14.913,343,244,56
+Belarus,north,805,5.023,142,373,42
+Slovenia,north,894,21.65,270,51,276
+Peru,both,748,6.031,163,160,21
+Turkmenistan,north,705,6.389,19,71,32
+Mauritius,north,788,9.682,98,31,18
+Latvia,north,844,14.07,281,216,62
+Cyprus,north,867,23.541,192,154,113
+Paraguay,south,702,4.078,213,117,74
+Romania,north,807,9.532,297,122,167
+Estonia,north,868,17.737,224,194,59
+Jamaica,north,732,4.879,82,97,9
+Croatia,north,828,12.299,230,87,254
+Turkey,north,787,10.863,51,22,7
+Jordan,north,735,4.088,6,21,1
+Azerbaijan,north,757,3.881,21,46,5
+Philippines,north,696,2.951,71,186,1
+China,noth,748,8.117,79,192,8
+Kyrgyzstan,north,669,1.22,31,97,6
+Serbia,north,785,5.426,283,131,127
+Bosnia Herzegovina,north,766,4.809,76,173,8
+Montenegro,north,810,7.029,31,114,128
+Dominican Republic,north,733,6.794,193,147,9
+Morocco,north,662,2.893,12,6,10
+Hungary,north,835,12.82,234,215,185
+Lebanon,north,753,8.257,20,55,31
+Portugal,north,845,19.872,194,67,339
+Macedonia,north,756,4.834,106,27,86
+Vietnam,north,689,2.171,111,2,1
+Tunisia,north,732,3.689,51,3,20
+Greece,north,868,17.882,133,112,218
+Mongolia,noth,743,3.694,77,189,8
+Niger,north,530,2.176,42,5,2
+Honduras,north,614,2.375,69,98,2
+Zambia,south,586,1.263,32,19,4
+Albania,north,782,4.132,89,132,54
+Sierra Leone,north,413,481.0,25,3,2
+Namibia,south,645,4.561,376,3,1
+Cameroon,south,553,1.375,147,1,4
+South Africa,south,696,5.28,225,76,81
+Egypt,north,694,3.548,6,4,1
+Armenia,north,749,3.606,21,179,11
+Kenya,both,585,1.463,58,22,2
+Ukraine,north,746,2.186,206,237,45
+Ghana,north,588,1.517,31,3,10
+Congo,south,452,1.712,32,3,1
+Georgia,north,776,3.866,52,100,149
+Congo,south,612,498.0,76,1,9
+Senegal,north,499,953.0,9,1,7
+Bulgaria,north,810,7.469,231,252,94
+Zimbabwe,south,532,1.029,64,18,4
+Malawi,south,474,300.0,8,11,1
+Gabon,south,698,7.079,347,98,59
+Mali,north,421,780.0,5,1,1
+Haiti,north,496,735.0,1,326,1
+Botswana,south,712,6.954,173,35,35
+Comoros,south,502,775.0,1,3,1
+Ivory Coast,north,486,1.535,37,1,7
+Cambodia,north,576,1.27,57,65,1
+Angola,south,577,3.309,217,57,45
+Niger,north,351,368.0,3,2,1
+Chad,north,405,651.0,15,1,1
+Burkina Faso,north,420,614.0,25,7,7
+Madagascar,south,517,402.0,26,15,4
+Tanzania,south,533,878.0,36,6,1
+Liberia,north,432,455.0,19,152,2
+Benin,north,512,789.0,34,4,13
+Togo,north,500,577.0,36,2,19
+Syria,north,536,2.058,5,35,16
