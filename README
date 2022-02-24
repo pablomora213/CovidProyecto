@@ -44,7 +44,7 @@ from selenium import webdriver
 import os
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
-import time 
+import time.
 
 - [requests](https://docs.python-requests.org/en/latest/) as req
 - [BeautifulSoup](https://github.com/python/typeshed) as bs
